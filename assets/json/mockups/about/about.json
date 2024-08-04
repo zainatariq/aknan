@@ -1,0 +1,17 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "about": {
+            "title": "About",
+            "description": "<h1>About us<\/h1><p>This is a brief description...<\/p>"
+        },
+        "policy": {
+            "title": "Policy",
+            "description": "<h1>Policy<\/h1><p>This is the policy content...<\/p>"
+        },
+        "phone": "01017455239",
+        "whatsapp": "01017455239",
+        "email": "aknan@gmail.com"
+    }
+}

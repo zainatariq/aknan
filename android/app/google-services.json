@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156349410041",
+    "project_id": "aknan-92aa0",
+    "storage_bucket": "aknan-92aa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156349410041:android:7e3a5a82d0715f12bbd028",
+        "android_client_info": {
+          "package_name": "com.example.aknan_user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjtywCwgb5lyo9jqQqeEPDVeLmv0jAjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

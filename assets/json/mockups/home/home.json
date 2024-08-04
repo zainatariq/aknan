@@ -1,0 +1,55 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "notification_count":"66",
+        "slider": [
+            {
+                "id": "b07caa8d-7b2f-4d0d-99ad-90cb12efc232",
+                "img": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg",
+                "link": "https:\/\/www.google.com"
+            },
+            {
+                "id": "4e45e1af-77ec-4548-9720-7c824505c8ae",
+                "img": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg",
+                "link": "https:\/\/www.google.com"
+            }
+        ],
+        "maintainances": [
+            {
+                "id": "63a442e6-4311-4a6a-8074-21837b9a8e26",
+                "name": "Periodic"
+            },
+            {
+                "id": "4ad0ad76-9b04-41f2-978d-32d3a7185194",
+                "name": "Emergency"
+            },
+            {
+                "id": "f336b5dd-9812-419e-9e0a-6d79ac131125",
+                "name": "Complaint"
+            }
+        ],
+        "elevator_types": [
+            {
+                "id": "6273e356-f013-4d9f-85b2-973b81bad47b",
+                "name": "Domestic Elevator",
+                "img": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+            },
+            {
+                "id": "4b9e08c3-4aa4-40fe-9966-6559e036b86b",
+                "name": "Dumbwaiters",
+                "img": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+            },
+            {
+                "id": "fc784622-266c-4d57-ac16-01d2a0d3e544",
+                "name": "Escalator",
+                "img": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+            },
+            {
+                "id": "3ed17bcc-ec18-45ea-8f5c-a1649c6de137",
+                "name": "Goods Hoist",
+                "img": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "data": [
+        {
+            "id": "85f2fffc-2cbb-4b92-ac25-c4e9ad98f1b3",
+            "elevator_full_name": "( ABC123 )",
+            "elevator_name": "",
+            "start_date": "2024-01-21",
+            "end_date": "2025-01-21",
+            "elevator_code": "ABC123",
+            "remaining_maintenance": 12,
+            "periodic_maintenances": 0,
+            "complaint_maintenances": 5,
+            "emergency_maintenances": 0,
+            "contract_type": "contract_type"
+        },
+        {
+            "id": "39ac8f67-7ddd-4d0e-a21e-a3f9afc9d943",
+            "elevator_full_name": "( DDL221 )",
+            "elevator_name": "",
+            "start_date": "2024-01-21",
+            "end_date": "2024-11-21",
+            "elevator_code": "DDL221",
+            "remaining_maintenance": 10,
+            "periodic_maintenances": 1,
+            "complaint_maintenances": 0,
+            "emergency_maintenances": 0,
+            "contract_type": "contract_type"
+        },
+        {
+            "id": "7fac5d99-bc44-4fe9-820d-a9db4730b90f",
+            "elevator_full_name": "( FWD332 )",
+            "elevator_name": "",
+            "start_date": "2024-01-21",
+            "end_date": "2025-09-21",
+            "elevator_code": "FWD332",
+            "remaining_maintenance": 20,
+            "periodic_maintenances": 0,
+            "complaint_maintenances": 0,
+            "emergency_maintenances": 9,
+            "contract_type": "contract_type"
+        }
+    ],
+    "links": {
+        "first": "http:\/\/127.0.0.1:8000\/api\/user\/user_elevators_list?page=1",
+        "last": "http:\/\/127.0.0.1:8000\/api\/user\/user_elevators_list?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http:\/\/127.0.0.1:8000\/api\/user\/user_elevators_list?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "http:\/\/127.0.0.1:8000\/api\/user\/user_elevators_list",
+        "per_page": 15,
+        "to": 3,
+        "total": 3
+    },
+    "status": 200,
+    "message": "success"
+}

@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": "3f9b5cda-9804-4b5b-a859-a89124453de2",
+            "name": "Advanced Elevator",
+            "desc": "Advanced Elevator",
+            "price": 0,
+            "imgs": [
+                {
+                    "id": "0e1ea28c-d28f-4a9d-ae44-4b8f5a5a5a4c",
+                    "url": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+                },
+                {
+                    "id": "7e06d40f-999b-460d-88db-7587c136959b",
+                    "url": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+                }
+            ],
+            "created_at": "2023-12-19 07:33:56"
+        },
+        {
+            "id": "76d27ffa-dd6d-4f1e-8fe0-1a594f201cca",
+            "name": "Advanced Elevator",
+            "desc": "Advanced Elevator",
+            "price": 0,
+            "imgs": [
+                {
+                    "id": "a68f8d22-e7de-4134-8129-cafad1f50d0d",
+                    "url": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+                },
+                {
+                    "id": "55b0365d-1392-4701-9aa2-18981756e916",
+                    "url": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+                }
+            ],
+            "created_at": "2023-12-19 07:33:54"
+        },
+        {
+            "id": "59aab8b0-3063-4d3b-9a44-bb22e70d9869",
+            "name": "Advanced Elevator",
+            "desc": "Advanced Elevator",
+            "price": 0,
+            "imgs": [
+                {
+                    "id": "4defc586-cbb4-4537-8abc-4cfc86072b3c",
+                    "url": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+                },
+                {
+                    "id": "6fe91fd6-d942-42e5-baae-cb75d63ca21f",
+                    "url": "https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg"
+                }
+            ],
+            "created_at": "2023-12-19 07:33:46"
+        }
+    ],
+    "links": {
+        "first": "http:\/\/127.0.0.1:8000\/api\/elevators?page=1",
+        "last": "http:\/\/127.0.0.1:8000\/api\/elevators?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "http:\/\/127.0.0.1:8000\/api\/elevators?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "http:\/\/127.0.0.1:8000\/api\/elevators",
+        "per_page": 100,
+        "to": 3,
+        "total": 3
+    },
+    "status": 200,
+    "message": ""
+}

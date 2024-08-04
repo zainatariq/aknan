@@ -1,0 +1,131 @@
+{
+    "data": [
+        {
+            "id": "9c6481dc-7034-4090-bae2-6991612a61f6",
+            "chat_type": null,
+            "user": {
+                "id": "8ae73e35-8f62-439f-817a-af6ec03ca64b",
+                "name": "alaa",
+                "username": "alaab3af1",
+                "email": "mail@test.com",
+                "phone": "123456788"
+            },
+            "admin": {
+                "id": "f3b3bee3-8933-4a7d-9da8-eddb3c580e69",
+                "phone": "123456789",
+                "email": "admin@admin.com",
+                "img": "https://aknan-sa.net/AKNAN-Backend/public/",
+                "name": "admin"
+            },
+            "maintenance": {
+                "id": "506cd6ab-8522-40b4-afae-b1392000bffb",
+                "use_spare_parts": false,
+                "use_external_spare_parts": false,
+                "status": "new_user",
+                "date_time": "2024-01-24 09:48:00",
+                "payment_type": "cash",
+                "damage_note": "hhhhhhhhhhhh",
+                "service_cost_price": "0",
+                "external_bills_price": "0",
+                "spare_parts_price": "0",
+                "full_price": "0",
+                "contract": {
+                    "id": "5ec243c5-058a-48df-b6fd-509b51e5bd13",
+                    "governorate": {
+                        "id": "afc66ad6-40b2-48b7-9578-53188fee85e1",
+                        "name": "منطقة الرياض"
+                    },
+                    "city": {
+                        "id": "3e9e355a-c005-4182-966b-c885d729f3c0",
+                        "name": "الرياض"
+                    },
+                    "district": {
+                        "id": "e7244b42-1fb0-470e-bfe5-200dd8b4b15c",
+                        "name": "الملاذ"
+                    },
+                    "branch": {
+                        "id": "876b32d7-8e4f-4c84-97e3-6d0b2320251f",
+                        "name": "الفرع1"
+                    },
+                    "user": {
+                        "id": "8ae73e35-8f62-439f-817a-af6ec03ca64b",
+                        "name": "alaa",
+                        "username": "alaab3af1",
+                        "email": "mail@test.com",
+                        "phone_code": null,
+                        "phone": "123456788"
+                    },
+                    "type": "maintenance",
+                    "street": "حي اول مجاورة أوله، شارع المعهد, Giza Governorate",
+                    "elevator_code": "EMC-ELE",
+                    "status": true
+                },
+                "elevator": {
+                    "id": "27c32b3e-1f58-475e-a81d-ed2bccd3b489",
+                    "name": "المصعد الأول",
+                    "price": 1200,
+                    "imgs": [],
+                    "created_at": "2024-01-22 13:42:16"
+                },
+                "user": {
+                    "id": "8ae73e35-8f62-439f-817a-af6ec03ca64b",
+                    "name": "alaa",
+                    "username": "alaab3af1",
+                    "email": "mail@test.com",
+                    "phone_code": null,
+                    "phone": "123456788"
+                },
+                "admin": null,
+                "technical": null,
+                "maintenance_type": {
+                    "id": "e53f2e29-196e-4c60-8cd1-cd8b5fa1a9cd",
+                    "name": {
+                        "en": "Emergency",
+                        "ar": "طارئة",
+                        "ur": "طارئة"
+                    }
+                }
+            },
+            "last_msg": "https://aknan-sa.net/AKNAN-Backend/public/storage/files/chat/download_(1).jpeg_aknan_1706084904_@2023.jpg",
+            "msg_type": "image",
+            "read_at": "2024-01-24 08:32:44",
+            "sender_type": "admin",
+            "created_at": "2024-01-24 08:27:43"
+        }
+    ],
+    "links": {
+        "first": "https://aknan-sa.net/AKNAN-Backend/public/index.php/api/user/chats?page=1",
+        "last": "https://aknan-sa.net/AKNAN-Backend/public/index.php/api/user/chats?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https://aknan-sa.net/AKNAN-Backend/public/index.php/api/user/chats?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "https://aknan-sa.net/AKNAN-Backend/public/index.php/api/user/chats",
+        "per_page": 10,
+        "to": 1,
+        "total": 1
+    },
+    "status": 200,
+    "message": null,
+    "unread_admin_messages_count": 0
+}

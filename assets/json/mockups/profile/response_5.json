@@ -1,0 +1,40 @@
+{
+    "data": {
+        "id": "c42d4ba1-b39e-40bf-a178-364911cfb758",
+        "name": "Ahmed Mohamed",
+        "username": "Ahmed Mohameda9329",
+        "email": "ahmed1@gamil.com",
+        "phone": "1234567892",
+        "is_active": true,
+        "is_banned": false,
+        "is_data_completed": true,
+        "governorate_id": {
+            "id": "6d003682-4df3-44c9-8ef7-fc3fa0d4e3ee",
+            "name": {
+                "en": "Riyadh Region",
+                "ar": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636",
+                "ur": "\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0631\u064a\u0627\u0636"
+            }
+        },
+        "city_id": {
+            "id": "44c15c6e-a2d5-44ee-ac2b-a5cc42e0a033",
+            "name": {
+                "en": "Riyadh",
+                "ar": "\u0627\u0644\u0631\u064a\u0627\u0636",
+                "ur": "\u0627\u0644\u0631\u064a\u0627\u0636"
+            }
+        },
+        "district_id": {
+            "id": "838c61f2-a0aa-4c72-bbe4-778af23d1c99",
+            "name": {
+                "en": "Al Malaz",
+                "ar": "\u0627\u0644\u0645\u0644\u0627\u0630",
+                "ur": "\u0627\u0644\u0645\u0644\u0627\u0630"
+            }
+        },
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL3VzZXIvcHJvZmlsZSIsImlhdCI6MTcwNTkzNTQwMCwiZXhwIjoxNzM3NDcxNDAwLCJuYmYiOjE3MDU5MzU0MDAsImp0aSI6ImQxalZzakJzNG5RTjF1ankiLCJzdWIiOiIzIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.TmOi8SKqlnrrIJZv69pB90NHxPUrjSROmQ5gsqHFeh0",
+        "created_at": "2024-01-22 08:40:46"
+    },
+    "status": 200,
+    "message": null
+}
